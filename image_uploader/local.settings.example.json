@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "MY_STORAGE_CONNECTION_STRING": "<<get-your-storage-connection-string-from-azure-portal>>"
+  }
+}
